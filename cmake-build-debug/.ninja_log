@@ -1,0 +1,17 @@
+# ninja log v6
+3	580	1743450485970671205	CMakeFiles/PR2_4_1.dir/main.cpp.o	606e914d62699982
+3	593	1743450485970542082	CMakeFiles/PR2_4_1.dir/classes/Matrix.cpp.o	c7effa5cd6d16796
+4	594	1743450485970798329	CMakeFiles/PR2_4_1_tests.dir/classes/Matrix.cpp.o	10630406fe7a66f0
+594	718	1743450486561618797	PR2_4_1	ec6b931a94cee538
+3	749	1743450485970403500	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	a28c66512990681
+583	1122	1743450486550484642	CMakeFiles/PR2_4_1_tests.dir/tests/tests.cpp.o	28ed98c92e983f33
+593	1180	1743450486560665350	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	b4028358544d6997
+3	1204	1743450485970240336	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	60e4b8f031a923b9
+3	1781	1743450485969766883	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1a07dba37f5bb5fc
+1782	1824	1743450487748855247	lib/libgtest.a	b51b69e6de22023b
+1824	1846	1743450487791402098	lib/libgtest_main.a	ddd85a377c936fa9
+1824	1851	1743450487791140934	lib/libgmock.a	c8c98fe986cb389b
+1851	1873	1743450487818294475	lib/libgmock_main.a	c7b38932d055d06e
+1846	2428	1743450488393447261	PR2_4_1_tests	1e899e4679dc10ef
+1846	2428	1743450488393447261	PR2_4_1_tests[1]_tests.cmake	1e899e4679dc10ef
+1846	2428	1743450488393447261	/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_4_1/cmake-build-debug/PR2_4_1_tests[1]_tests.cmake	1e899e4679dc10ef

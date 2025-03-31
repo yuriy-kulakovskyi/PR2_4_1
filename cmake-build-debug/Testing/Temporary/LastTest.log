@@ -1,0 +1,30 @@
+Start testing: Mar 31 22:48 EEST
+----------------------------------------------------------
+1/1 Testing: Tests.PerimeterTest
+1/1 Test: Tests.PerimeterTest
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_4_1/cmake-build-debug/PR2_4_1_tests" "--gtest_filter=Tests.PerimeterTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_4_1/cmake-build-debug
+"Tests.PerimeterTest" start time: Mar 31 22:48 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_4_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Tests.PerimeterTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tests
+[ RUN      ] Tests.PerimeterTest
+[       OK ] Tests.PerimeterTest (0 ms)
+[----------] 1 test from Tests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tests.PerimeterTest" end time: Mar 31 22:48 EEST
+"Tests.PerimeterTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 31 22:48 EEST
